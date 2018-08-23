@@ -1,0 +1,14 @@
+body{
+    padding-left: 15px
+}
+.page-header {
+    background-color: antiquewhite;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+.post {
+    margin-bottom: 70px;
+}
+h1 a {
+    color: #d172c9
+}
