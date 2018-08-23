@@ -9,6 +9,7 @@ django = "==2.*"
 [dev-packages]
 pylint = "*"
 pytest = "*"
+pylint-django = "*"
 
 [requires]
 python_version = "3.6"
